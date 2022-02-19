@@ -18,7 +18,7 @@
 
 
 .awesome {
-  font-family: VALORANT
+  font-family: Copperplate, futura
   /*
 	valorant
   */
@@ -30,7 +30,7 @@
   text-align: left;
 
   color: #313131;
-  font-size: 500px;
+  font-size: 250px!important;
   font-weight: bold;
   position: absolute;
   -webkit-animation: colorchange 5s infinite alternate;
