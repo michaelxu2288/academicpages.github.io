@@ -14,7 +14,7 @@ Juststars whiff clips, he is very boosted
 ======
 
 
-<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp&allowdl=no" style="width:110%; height:1200px; border:0; style= "border:2px solid red;" title = "whiff clips" ></iframe>
+<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp&allowdl=no" style="width:110%; height:1200px; border:2px solid red;"  title = "whiff clips" ></iframe>
 
 
 
