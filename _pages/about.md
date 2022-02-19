@@ -13,16 +13,12 @@ Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO ev
 
 
 <p align="left">
-    <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!! ![My NFT website](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png)
-
+    <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p>
 </p>
-</p>
-
-<br/><br/>
 
 This is backed by the blockchain and help support artists. It is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded and uses ethereuem. Buy yours here:
-<button onclick="location.href='https://www.reddit.com/r/hentai/'" type="button">
-         My NFT Website</button>
+<button onclick="location.href='https://www.reddit.com/r/hentai/'" type="button">My NFT Website</button> ![NFT EXAMPLE](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png)
+    
          
 Juststars whiff clips, he is very boosted
 ======
