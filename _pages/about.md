@@ -20,4 +20,4 @@ Unfortunate circumstance. Never in my life I hope to get in a valorant match and
 I suck at video games
 ------
 cock
-![hot sexy image of mathias](mathiasugly.png)
+![hot sexy image of mathias](/images/mathiasugly.png)
