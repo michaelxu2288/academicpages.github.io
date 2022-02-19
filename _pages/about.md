@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO every contest since I was 6 years old but I can never get out of silver. I take Calc BC but I dont even know what the derivative of tan(x) is. I also like lolis and underage children
 
-<p class="coloruwu">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p>
+<p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p>
 
 This is backed by the blockchain and help support artists. It is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded and uses ethereuem. Buy yours here: [My NFT website](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png).
 
