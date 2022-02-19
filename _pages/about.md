@@ -10,7 +10,11 @@ redirect_from:
 Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO every contest since I was 6 years old but I can never get out of silver. I take Calc BC but I dont even know what the derivative of tan(x) is. I also like lolis and underage children
 
 
-</center><p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p></center>
+
+
+<p align="center">
+    <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p>
+</p>
 
 
 
