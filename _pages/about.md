@@ -18,11 +18,10 @@ Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO ev
 
 <br/><br/>
 
-
-
-
 This is backed by the blockchain and help support artists. It is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded and uses ethereuem. Buy yours here: [My NFT website](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png).
-
+<button onclick="location.href='https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png'" type="button">
+         My NFT Website</button>
+         
 Juststars whiff clips, he is very boosted
 ======
 
