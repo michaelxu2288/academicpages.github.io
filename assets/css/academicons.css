@@ -18,19 +18,22 @@
 
 
 .awesome {
-  font-family: futura;
-  font-style: italic;
+  font-family: futura; 
+  /*
+	valorant
+  */
+  font-style: normal;
 
   width: 100%;
 
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
 
   color: #313131;
-  font-size: 45px;
+  font-size: 250px;
   font-weight: bold;
   position: absolute;
-  -webkit-animation: colorchange 20s infinite alternate;
+  -webkit-animation: colorchange 5s infinite alternate;
 }
 
 @-webkit-keyframes colorchange {
