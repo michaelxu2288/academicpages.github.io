@@ -18,7 +18,7 @@
 
 
 .awesome {
-  font-family: 'VALORANT', sans-serif;
+  font-family: VALORANT
   /*
 	valorant
   */
@@ -32,7 +32,7 @@
   color: #313131;
   font-size: 500px;
   font-weight: bold;
-  position: static;
+  position: absolute;
   -webkit-animation: colorchange 5s infinite alternate;
 }
 
