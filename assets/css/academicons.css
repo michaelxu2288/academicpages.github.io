@@ -18,7 +18,7 @@
 
 
 .awesome {
-  font-family: futura; 
+  font-family: 'VALORANT', sans-serif;
   /*
 	valorant
   */
@@ -30,9 +30,9 @@
   text-align: left;
 
   color: #313131;
-  font-size: 250px;
+  font-size: 500px;
   font-weight: bold;
-  position: absolute;
+  position: static;
   -webkit-animation: colorchange 5s infinite alternate;
 }
 
