@@ -13,7 +13,7 @@ Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO ev
 
 
 <p align="left">
-    <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!! [My NFT website](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png)
+    <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!! ![My NFT website](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png)
 
 </p>
 </p>
