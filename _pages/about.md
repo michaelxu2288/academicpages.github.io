@@ -12,6 +12,11 @@ ATTTENTION! We are now selling MATHIAS OOI NFTS!!!!! This is backed by the block
 
 Juststars whiff clips, he is very boosted
 ======
+<iframe height="300" style="width: 100%;" scrolling="no" title="css font color change animation" src="https://codepen.io/raaasin/embed/jOVNBm?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/raaasin/pen/jOVNBm">
+  css font color change animation</a> by Rasin Zakaria (<a href="https://codepen.io/raaasin">@raaasin</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 
 <iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp&allowdl=no" style="width:110%; height:1200px; border:2px solid red;"  title = "whiff clips" ></iframe>
