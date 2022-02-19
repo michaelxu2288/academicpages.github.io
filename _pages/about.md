@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "hi im mathias ooi and i am a valorant baiter and i am usaco silver and stinky"
-excerpt: "Online IP Tracker No Virus"
+excerpt: "i havent taken a shower in 3 weeks"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,15 +12,13 @@ ATTTENTION! We are now selling MATHIAS OOI NFTS!!!!! This is backed by the block
 
 Juststars whiff clips, he is very boosted
 ======
-<iframe src="https://drive.google.com/embeddedfolderview?id=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp#grid" style="width:100%; height:600px; border:0;"></iframe>
-
+[//]: <> (<iframe src="https://drive.google.com/embeddedfolderview?id=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp#grid" style="width:100%; height:600px; border:0;"></iframe>)
+<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp" style="border:none;" width="100%"</iframe>
 
 
 
 
 I suck at video games
 ------
-
-<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp" style="border:none;" width="100%"</iframe>
-cock
+cocks
 ![hot sexy image of mathias](/images/mathiasugly.png)
