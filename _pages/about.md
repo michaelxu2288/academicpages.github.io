@@ -14,11 +14,7 @@ Juststars whiff clips, he is very boosted
 ======
 sex
 
-
-<iframe src="https://googledriveembedder.collegefam.com/?key=YOUR_API_KEY&folderid=FOLDER_ID_WHIHCH_IS_PUBLICLY_VIEWABLE" style="border:none;" width="100%"></iframe>
-
-<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp" style="border:none;" width="100%"</iframe>
-
+<iframe src="https://googledriveembedder.collegefam.com/?key=AIzaSyAfHR7-mA2DoTnG5lBJGGfh7nuFGVYD7Do&folderid=10F0_Ae6a0R6NUNDAnCbxfQ6OJ8fDV1fp" style="width:100%; height:600px; border:0;"></iframe>
 
 
 
