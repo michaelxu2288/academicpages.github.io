@@ -9,15 +9,10 @@ redirect_from:
 ---
 Hi im Mathias, I am known for hard baiting in valorant, and I have done USACO every contest since I was 6 years old but I can never get out of silver. I take Calc BC but I dont even know what the derivative of tan(x) is. I also like lolis and underage children
 My Valorant Stats:
-<iframe src="https://tracker.gg/overlays/overlay/8c7b4a73-c570-4199-b6e9-77853915cdad" style="display:block; width:100%; height:600px; border:0;"></iframe>
-
-
-
-
+<iframe src="https://tracker.gg/overlays/overlay/8c7b4a73-c570-4199-b6e9-77853915cdad" style="display:block; width:100%; height:40px; border:0;"></iframe>
 <p align="left">
     <p class="awesome">ATTENTION! we are now selling MATHIAS OOI NFTS!!!!!</p>
 </p>
-
 This is backed by the blockchain and help support artists. It is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded and uses ethereuem. Buy yours here:
 <button onclick="location.href='https://www.reddit.com/r/hentai/'" type="button">My NFT Website</button> ![NFT EXAMPLE](https://cdn.discordapp.com/attachments/748568816618962986/944476282647887892/unknown.png)
     
